@@ -14,7 +14,9 @@ The business understanding of this project is rooted in the need to improve the 
 By analyzing trends in completion, employment, and income across different skills and training centers, this project converts raw data into actionable intelligence. The cleaned dataset, analytical metrics, and Power BI dashboard serve as decision-support tools for enhancing program design and maximizing the positive impact on refugee youth.
 ________________________________________
 ## 4. Business Objectives
-The main objective of this project is to transform a raw dataset into a clean, analysis-ready format that can support accurate measurement of training performance and employment outcomes. The project aims to calculate completion rates, employment rates, and average income across skill types, training centers, age groups, and genders. Additionally, it seeks to identify the demographic and skill-based factors that most strongly influence employment success and income generation. 
+The main objective of this project is to transform a raw dataset into a clean, analysis-ready format that can support accurate measurement of training performance and employment outcomes. The project aims to calculate completion rates, employment rates, and average income across skill types, training centers, age groups, and genders. 
+
+Additionally, it seeks to identify the demographic and skill-based factors that most strongly influence employment success and income generation. 
 A secondary objective is to produce a functional Power BI dashboard that communicates these insights visually and supports program monitoring, reporting, and future planning.
 ________________________________________
 ## 5. Business Criterion of Success
